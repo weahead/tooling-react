@@ -1,6 +1,6 @@
 # @weahead/tooling-react
 
-[We aheads](https://www.weahead.se/) eslint config for React projects.
+[We aheads](https://www.weahead.se/) package, installing all configs for React projects.
 
 ## Install
 
