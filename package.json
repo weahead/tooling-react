@@ -33,5 +33,13 @@
     "markdownlint-cli": "0.19.0",
     "package-change-checker": "1.2.4",
     "prettier": "1.18.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weahead/tooling-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/weahead/tooling-react/issues"
+  },
+  "homepage": "https://github.com/weahead/tooling-react#readme"
 }
